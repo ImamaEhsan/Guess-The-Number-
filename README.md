@@ -8,4 +8,6 @@ Author : IMAMA EHSAN
 import random 
 <br>
 Target = random.randint(1,5)
+<br>
+print(Target)
 
