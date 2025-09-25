@@ -9,5 +9,11 @@ import random
 <br>
 Target = random.randint(1,100)
 <br>
+while True:
+    UserChoice = int(input("enter the number:"))
+    if(UserChoice == Target)
+    print("Correct Guess!!")
+    break
+
 
 
