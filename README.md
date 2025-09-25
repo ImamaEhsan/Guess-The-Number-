@@ -7,4 +7,5 @@ Author : IMAMA EHSAN
 
 import random 
 <br>
-Target = random.randint(1,100)
+Target = random.randint(1,5)
+
