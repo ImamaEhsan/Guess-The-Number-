@@ -11,10 +11,14 @@ Target = random.randint(1,100)
 <br>
 while True:
     UserChoice = int(input("enter the number:"))
-    if(UserChoice == Target)
+    if(UserChoice == Target):
         print("Correct Guess!!")
         break
 
+    elif(UserChoice < Target):
+        print("take a bigger guess")
 
+    else:
+        print("your guess was too big,take a smaller one")
 
-
+print("_____GAME OVER______")
