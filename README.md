@@ -5,3 +5,5 @@ Author : IMAMA EHSAN
 
 # creating a game code
 
+import random 
+Target = random.randint(1,100)
