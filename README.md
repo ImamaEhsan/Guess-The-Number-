@@ -28,6 +28,6 @@ while True:
     else:
 <br>
         print("your guess was too big,take a smaller one")
-<br>
+    <br>
 
 print("_____GAME OVER______")
