@@ -19,15 +19,12 @@ while True:
 <br>
         break
 <br>
-
     elif(UserChoice < Target):
 <br>
         print("take a bigger guess")
 <br>
-
     else:
 <br>
         print("your guess was too big,take a smaller one")
     <br>
-
 print("_____GAME OVER______")
