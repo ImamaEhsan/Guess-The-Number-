@@ -12,8 +12,9 @@ Target = random.randint(1,100)
 while True:
     UserChoice = int(input("enter the number:"))
     if(UserChoice == Target)
-    print("Correct Guess!!")
-    break
+        print("Correct Guess!!")
+        break
+
 
 
 
